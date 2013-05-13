@@ -1,0 +1,17 @@
+* Purpose
+ This repository is for creating book out of blog posts written by
+ Ashokkumar Sir. 
+* Layout
+ Repo Layout is as follows
+** tools
+   This folder contains tool created for scrapping the posts from
+  [[http://ashok567.blogspot.com][ Ashok's blog]] and raw data thus scrapped
+* Idea
+ Here is the idea the blog contains about 348 article from 2006 to
+ 2013 and is already scrapped into a sqlite db inside tools/
+ folder. Next step will be convert this raw data into org-mode files
+ which will be used to create the book and finally exported into
+ LaTeX format.
+* Want to Contribute?
+ If you know Ashok some how and want to contribute you are welcome to
+ fork and provide pull requests.! 
