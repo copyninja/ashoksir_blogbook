@@ -3,9 +3,10 @@
  Ashokkumar Sir. 
 * Layout
  Repo Layout is as follows
-** tools
-   This folder contains tool created for scrapping the posts from
-  [[http://ashok567.blogspot.com][ Ashok's blog]] and raw data thus scrapped
+| tools | This folder contains tool created for scrapping the posts from [[http://ashok567.blogspot.com][ Ashok's blog]] and raw data thus scrapped |
+| html  | The db posts are formatted into html files                                                              |
+| org   | Converted org files using pandoc                                                                        |
+
 * Idea
  Here is the idea the blog contains about 348 article from 2006 to
  2013 and is already scrapped into a sqlite db inside tools/
